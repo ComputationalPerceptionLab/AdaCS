@@ -1,6 +1,6 @@
-# AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping (TPAMI 2024) [PyTorch]
+# AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping (TPAMI 2024) 
 
-This project is the [pytorch] implement of [AdaCS](https://ieeexplore.ieee.org/document/10412658) 
+This repository is the pytorch implement of [AdaCS TPAMI 2024](https://ieeexplore.ieee.org/document/10412658) 
 
 Chenxi Qiu and [Xuemei Hu](https://scholar.google.com.hk/citations?hl=zh-CN&user=yZauWzEAAAAJ)
 
@@ -12,8 +12,10 @@ Scene-dependent adaptive compressive sensing (CS) has been a long pursuing goal 
 
 ## Overview
 
+### Cascaded AdaCS framework
 ![Cascaded AdaCS framework](figs/AdaCS.png)
  
+### PiABM-Net
 ![PiABM-Net](figs/PiABM-Net.png)
 
 ## Environmental Requirements
