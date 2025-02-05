@@ -29,7 +29,7 @@ Download the [pretrained weights](https://box.nju.edu.cn/d/89dca6f22250415c9768/
 `python test.py --test_stage 0/1/2/3/4 --test_name Set11`
 
 ## Train
-Download the train sets and put it into your traning data folder, then run:
+Download the training sets and put it into your traning data folder, then run:
 
 `python train.py --gpu_list 0`
 
