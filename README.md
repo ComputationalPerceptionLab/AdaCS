@@ -1,6 +1,6 @@
 # AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping (TPAMI 2024) 
 
-This repository is the pytorch implement of [AdaCS TPAMI 2024](https://ieeexplore.ieee.org/document/10412658) 
+This repository is the pytorch implement of [AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping](https://ieeexplore.ieee.org/document/10412658)
 
 Chenxi Qiu and [Xuemei Hu](https://scholar.google.com.hk/citations?hl=zh-CN&user=yZauWzEAAAAJ)
 
@@ -26,7 +26,7 @@ Scene-dependent adaptive compressive sensing (CS) has been a long pursuing goal 
 
 Download the [pretrained weights](https://box.nju.edu.cn/d/89dca6f22250415c9768/) and put it into `./weights/`, then run:
 
-## :computer: Command
+## Command
 ### Train
 `python train.py --gpu_list 0`
 ### Test
