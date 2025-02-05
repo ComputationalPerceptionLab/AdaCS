@@ -26,11 +26,12 @@ Scene-dependent adaptive compressive sensing (CS) has been a long pursuing goal 
 
 Download the [pretrained weights](https://box.nju.edu.cn/d/89dca6f22250415c9768/) and put it into `./weights/`, then run:
 
-## Command
-### Train
-`python train.py --gpu_list 0`
-### Test
 `python test.py --test_stage 0/1/2/3/4 --test_name Set11`
+
+## Train
+Download the train sets and put it into your traning data folder, then run:
+
+`python train.py --gpu_list 0`
 
 ## Citation
 
